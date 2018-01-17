@@ -4,4 +4,15 @@ A real-time chat application built using React,Flux,Webpack and Firebase.This is
 # Project Screenshots
 ![Chat App](https://github.com/twishasaraiya/Chat-Application/blob/master/chat-app.png)
 
+You can easily create your own channel and start chatting
+![Add channel](https://github.com/twishasaraiya/Chat-Application/blob/master/Add-new-channel.png)
+
 # Installation Guide
+
+# Updates(Coming Soon)
+ - To add delete message functionality
+ - To add delete channel functionality
+ - automatic update from firebase without reloading
+ 
+# Contributing
+  Please feel free to start contributing. I would like to hear new suggestions as well
