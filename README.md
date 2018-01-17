@@ -3,6 +3,7 @@ A real-time chat application built using React,Flux,Webpack and Firebase.This is
 
 # Project Screenshots
 ![Chat App](https://github.com/twishasaraiya/Chat-Application/blob/master/chat-app.png)
+   *UI of the application*
 
 ![Add channel](https://github.com/twishasaraiya/Chat-Application/blob/master/Add-new-channel.png)
 *You can easily create your own channel and start chatting*
@@ -11,7 +12,14 @@ A real-time chat application built using React,Flux,Webpack and Firebase.This is
 
 ```
  git clone https://github.com/twishasaraiya/Chat-Application.git
- npm install 
+ cd Chat-Appliaction
+ npm install
+```
+
+To run the application on http://localhost:8080
+
+```
+ webpack-dev-server --progress --colors
 ```
 
 # Updates(Coming Soon)
@@ -20,4 +28,4 @@ A real-time chat application built using React,Flux,Webpack and Firebase.This is
  - automatic update from firebase without reloading
  
 # Contributing
-  Please feel free to start contributing. I would like to hear new suggestions as well
+  Please feel free to contribute. I would like to hear new suggestions to improve the application
